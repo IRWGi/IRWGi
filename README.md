@@ -150,14 +150,13 @@
 
 
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) - Supabase  
+
 
 
 
 
 ---
-
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) - Supabase  
 
 ### Cybersecurity & Secure Technology:
 

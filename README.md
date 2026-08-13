@@ -67,10 +67,9 @@
 ---
 
 
-### Databases:  * MySQL   * MongoDB  * SQLite * Neo4j  * Microsoft SQL Server * MariaDB  * Amazon DynamoDB  * Supabase
+### Databases:    * AmazonDynamoDB  * MariaDB   * Microsoft SQL Server  * MongoDB  * MySQL   * Supabase    * SQLite
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite07405E?style=flat&logo=sqlite&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 
 
@@ -196,6 +195,10 @@ A strong solution should not only work well technically—it should also be reli
 My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 
 🎵 Music is one of my greatest passions. I am especially fascinated by old classics and timeless songs—their creativity, emotion and structure inspire me. Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
+
+
+
+
 
 
 

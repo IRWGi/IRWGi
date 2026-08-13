@@ -203,17 +203,33 @@
 
 -Artificial Intelligence
 
+
+
 -Machine Learning
+
+
 
 -Deep Learning
 
+
+
 -Data Science
+
+
 
 -Data Engineering
 
+
+
 -Cybersecurity
 
+
+
+
 -Cloud Computing
+
+
+
 
 
 
@@ -228,13 +244,28 @@
 
 -Deep Learning and Computer Vision
 
+
+
+
 -MLOps and AI Deployment
 
--Explainable AI (XAI)
+
+
 
 -Cloud AI Solutions
 
--Cognitive Cybersecurity
+
+
+-Linux 
+
+
+
+
+-Ubuntu
+
+
+
+-Cybersecurity in general 
 
 
 

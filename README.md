@@ -146,30 +146,45 @@
 ## 📋Areas of Interest:
 
 -Artificial Intelligence
+
 -Machine Learning
+
 -Deep Learning
+
 -Data Science
+
 -Data Engineering
+
 -Cybersecurity
+
 -Cloud Computing
+
 
 
 
 ## 👁️ Currently Exploring:
 
 -Deep Learning and Computer Vision
+
 -MLOps and AI Deployment
+
 -Explainable AI (XAI)
+
 -Cloud AI Solutions
+
 -Cognitive Cybersecurity
 
 
 
 ## Beyond Code
 
-I enjoy exploring the intersection between technology, human behavior and decision-making. For me, Artificial Intelligence is not only about building models—it is about understanding complexity, recognizing patterns and creating solutions that are useful, accessible and meaningful.
+I am interested in the intersection of technology, data, human behavior and decision-making. I enjoy exploring how programming, Artificial Intelligence and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
-I believe the most impactful technologies combine technical excellence, analytical thinking, clear communication and a genuine understanding of the problems they are designed to solve. I see technology as a bridge between complex systems and meaningful human experiences.
+For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly and transforming data into insights that can support better decisions. I am particularly interested in solutions that are useful, accessible, secure and designed with a clear purpose.
+
+I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication and an understanding of the real problem behind every project. A strong solution should not only work well technically—it should also be reliable, ethical and capable of creating measurable value for people, organizations and communities.
+
+My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 
 🎵 Music is one of my greatest passions. I am especially fascinated by old classics and timeless songs—their creativity, emotion and structure inspire me. Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
 

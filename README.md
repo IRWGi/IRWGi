@@ -197,20 +197,6 @@
 
 
 
-##  🔊 Profile Visitor Count
-
-
-
-
-
----
-[![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
 ---
 
 ## 📋Areas of Interest:
@@ -273,7 +259,18 @@ My goal is to continue developing skills in software development, data science, 
 
 ---
 
+##  Profile Visitor Count:
+
+
+---
+
+
+[![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 ## Let’s Connect!
+
 
 EMAIL: rwolkof@gmail.com
 

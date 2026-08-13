@@ -198,7 +198,7 @@ For me, Artificial Intelligence is more than building models or writing code. It
 I am particularly interested in solutions that are useful, accessible, secure and designed with a clear purpose.
 
 I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication and an understanding of the real problem behind every project. 
-A strong solution should not only work well technically—it should also be reliable, ethical and capable of creating measurable value for people, organizations and communities.
+A strong solution should not only work well technically, it should also be reliable, ethical and capable of creating measurable value for people, organizations and communities.
 
 My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 

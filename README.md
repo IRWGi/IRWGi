@@ -55,9 +55,7 @@
 ### Cloud & Development:  * AWS  * .NET    * Flask  * Node.js  * NPM    *Gulp  * Nginx    * Insomia
 
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white
-[Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) 
-![NPM]![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)[Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) [Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
 
 
 
@@ -70,9 +68,7 @@
 
 ### Databases:  * MySQL   * MongoDB  * SQLite * Neo4j  * Microsoft SQL Server * MariaDB  * Amazon DynamoDB  * Supabase
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite07405E?style=flat&logo=sqlite&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite07405E?style=flat&logo=sqlite&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 
 
 

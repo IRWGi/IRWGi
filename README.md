@@ -10,7 +10,14 @@
 
 
 
+
+
+
 ## 💻 Tech Stack:
+
+
+
+
 
 
 ---
@@ -47,6 +54,11 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) - PowerShell  
 
 
+
+
+
+
+
 ---
 
 ### Artificial Intelligence & Data:
@@ -62,7 +74,14 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) - Apache Airflow  
 
 
+
+
+
+
 ---
+
+
+
 
 
 
@@ -92,6 +111,10 @@
 
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) - Insomnia  
+
+
+
+
 
 
 
@@ -125,6 +148,12 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) - Amazon DynamoDB 
 
 
+
+
+
+
+
+
 ---
 
 
@@ -145,6 +174,12 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) - Nginx  
 
 
+
+
+
+
+
+
 --- 
 
 
@@ -158,8 +193,14 @@
 ##  🔊 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IRWGi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 
 
@@ -182,6 +223,9 @@
 -Cloud Computing
 
 
+
+
+
 ---
 
 
@@ -199,6 +243,8 @@
 
 -Cognitive Cybersecurity
 
+
+
 ---
 
 
@@ -215,6 +261,8 @@ A strong solution should not only work well technically—it should also be reli
 My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 
 🎵 Music is one of my greatest passions. I am especially fascinated by old classics and timeless songs—their creativity, emotion and structure inspire me. Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
+
+
 
 ---
 

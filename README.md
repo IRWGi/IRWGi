@@ -274,7 +274,7 @@ My goal is to continue developing skills in software development, data science, 
 --- 
 
 
-## Let’s Connect!
+## Let’s All Connect!
 
 
 EMAIL: rwolkof@gmail.com

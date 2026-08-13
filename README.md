@@ -176,7 +176,14 @@
 
 * Cybersecurity Fundamentals
 
-  
+  ## 🖼️ Extra:    * Adobe Creative Cloud  * Adobe Photoshop  * Adobe After Effects  * Adobe Lightroom Classic       * Adobe Acrobat Reader    * Canva    * Fastlane  * CloudBees  
+
+
+ I am also exploring creative and digital media tools, including Adobe Creative Cloud, Photoshop, After Effects, Lightroom, Acrobat Reader and Canva. I enjoy combining technology with visual design, editing and creative communication.
+
+
+  ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+  ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
 ---

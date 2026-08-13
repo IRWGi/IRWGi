@@ -241,7 +241,7 @@
 ---
 
 
-## Beyond Code
+## Other things rather than Coding:
 
 I am interested in the intersection of technology, data, human behavior and decision-making. I enjoy exploring how programming, Artificial Intelligence and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
@@ -257,7 +257,6 @@ My goal is to continue developing skills in software development, data science, 
 
 
 
----
 
 ##  Profile Visitor Count:
 
@@ -265,13 +264,21 @@ My goal is to continue developing skills in software development, data science, 
 ---
 
 
+
 [![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+
+--- 
 
 
 ## Let’s Connect!
 
 
 EMAIL: rwolkof@gmail.com
+
+
 
 ---

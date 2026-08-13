@@ -12,6 +12,10 @@
 
 ## 💻 Tech Stack:
 
+
+---
+
+
 ### Programming Languages:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) - Python  
@@ -42,6 +46,9 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) - PowerShell  
 
+
+---
+
 ### Artificial Intelligence & Data:
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) - NVIDIA  
@@ -53,6 +60,11 @@
 
 
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) - Apache Airflow  
+
+
+---
+
+
 
 ### Cloud & Development:
 
@@ -81,6 +93,11 @@
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) - Insomnia  
 
+
+
+---
+
+
 ### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) - MySQL  
@@ -108,6 +125,8 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) - Amazon DynamoDB 
 
 
+---
+
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) - Supabase  
 
@@ -131,17 +150,20 @@
 
 
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=IRWGi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  🔊 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IRWGi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+---
 
 ## 📋Areas of Interest:
 
@@ -160,6 +182,9 @@
 -Cloud Computing
 
 
+---
+
+
 
 
 ## 👁️ Currently Exploring:
@@ -174,15 +199,18 @@
 
 -Cognitive Cybersecurity
 
+---
 
 
 ## Beyond Code
 
 I am interested in the intersection of technology, data, human behavior and decision-making. I enjoy exploring how programming, Artificial Intelligence and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
-For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly and transforming data into insights that can support better decisions. I am particularly interested in solutions that are useful, accessible, secure and designed with a clear purpose.
+For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly and transforming data into insights that can support better decisions. 
+I am particularly interested in solutions that are useful, accessible, secure and designed with a clear purpose.
 
-I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication and an understanding of the real problem behind every project. A strong solution should not only work well technically—it should also be reliable, ethical and capable of creating measurable value for people, organizations and communities.
+I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication and an understanding of the real problem behind every project. 
+A strong solution should not only work well technically—it should also be reliable, ethical and capable of creating measurable value for people, organizations and communities.
 
 My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 

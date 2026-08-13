@@ -23,35 +23,10 @@
 ---
 
 
-### Programming Languages:
+### Programming Languages:  * Python     * R     * Java      * C++     * C#   * HTML5    * Powershell
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) - Python  
-
-
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) - R  
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) - Java  
-
-
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) - C++  
-
-
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) - C#  
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) - HTML5  
-
-
-
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) - PowerShell  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) 
 
 
 
@@ -61,17 +36,9 @@
 
 ---
 
-### Artificial Intelligence & Data:
+### Artificial Intelligence & Data:  * NVIDIA    * Chart.js    * Apache Airflow
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white) - NVIDIA  
-
-
-
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white) - Chart.js  
-
-
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) - Apache Airflow  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)  ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white)   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) 
 
 
 
@@ -85,32 +52,12 @@
 
 
 
-### Cloud & Development:
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) - AWS  
+### Cloud & Development:  * AWS  * .NET    * Flask  * Node.js  * NPM    *Gulp  * Nginx    * Insomia
 
 
-
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white) - .NET  
-
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) - Flask  
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white) - Node.js  
-
-
-
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) - NPM  
-
-
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) - Nginx  
-
-
-
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) - Insomnia  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white
+[Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) 
+![NPM]![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
 
 
 
@@ -121,36 +68,11 @@
 ---
 
 
-### Databases:
+### Databases:  * MySQL   * MongoDB  * SQLite * Neo4j  * Microsoft SQL Server * MariaDB  * Amazon DynamoDB  * Supabase
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) - MySQL  
-
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) - MongoDB  
-
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) - SQLite  
-
-
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) - Neo4j  
-
-
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) - Microsoft SQL Server  
-
-
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) - MariaDB  
-
-
-
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) - Amazon DynamoDB 
-
-
-
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) - Supabase  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite07405E?style=flat&logo=sqlite&logoColor=white)  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 
 
 
@@ -158,16 +80,11 @@
 
 ---
 
-### Cybersecurity & Secure Technology:
-
-![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=flat&logo=amazonaws&logoColor=white) - AWS Security  
+### Cybersecurity & Secure Technology:  * AWS Security  * Windows Terminal  * PowerShell 
 
 
 
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white) - Windows Terminal  
-
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) - PowerShell 
+![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) 
 
 
 
@@ -188,7 +105,12 @@
 
 
 ![](https://github-readme-stats.shion.dev/api?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+
 ![](https://streak-stats.demolab.com/?user=IRWGi&theme=dark&hide_border=false)<br/>
+
+
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
@@ -198,32 +120,34 @@
 
 ## 📋Areas of Interest:
 
--Artificial Intelligence
+
+
+* Artificial Intelligence
 
 
 
--Machine Learning
+* Machine Learning
 
 
 
--Deep Learning
+* Deep Learning
 
 
 
--Data Science
+* Data Science
 
 
 
--Data Engineering
+*Data Engineering
 
 
 
--Cybersecurity
+* Cybersecurity
 
 
 
 
--Cloud Computing
+* Cloud Computing
 
 
 
@@ -239,29 +163,24 @@
 
 ## 👁️ Currently Exploring:
 
-- AI in Healthcare and Biomedical Data
-
-
-- Cybersecurity and Secure Software Development
+* AI in Healthcare and Biomedical Data
 
 
 
-
-- Data Science, Predictive Analytics and Visualization
-
+* Cybersecurity and Secure Software Development
 
 
--Linux 
+* Data Science, Predictive Analytics and Visualization
+
+
+* Linux and Ubuntu
 
 
 
 
--Ubuntu
+* Cybersecurity Fundamentals
 
-
-
--Cybersecurity in general 
-
+  
 
 
 ---

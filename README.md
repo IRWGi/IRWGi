@@ -242,17 +242,15 @@
 
 ## 👁️ Currently Exploring:
 
--Deep Learning and Computer Vision
+- AI in Healthcare and Biomedical Data
+
+
+- Cybersecurity and Secure Software Development
 
 
 
 
--MLOps and AI Deployment
-
-
-
-
--Cloud AI Solutions
+- Data Science, Predictive Analytics and Visualization
 
 
 

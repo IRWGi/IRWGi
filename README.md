@@ -191,7 +191,8 @@
 
 ## Other things rather than Coding:
 
-I am interested in the intersection of technology, data, human behavior and decision-making. I enjoy exploring how programming, Artificial Intelligence and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
+I am interested in the intersection of technology, data, human behavior and decision-making. I enjoy exploring how programming 
+Artificial Intelligence and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
 For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly and transforming data into insights that can support better decisions. 
 I am particularly interested in solutions that are useful, accessible, secure and designed with a clear purpose.
@@ -201,7 +202,9 @@ A strong solution should not only work well technically—it should also be reli
 
 My goal is to continue developing skills in software development, data science, Machine Learning, cloud computing and cybersecurity while contributing to projects that connect complex systems with meaningful, practical and innovative solutions.
 
-🎵 Music is one of my greatest passions. I am especially fascinated by old classics and timeless songs—their creativity, emotion and structure inspire me. Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
+🎵 Music is one of my greatest passions. I am especially fascinated by old classics and timeless songs—their creativity, emotion and structure inspire me.
+
+Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
 
 
 

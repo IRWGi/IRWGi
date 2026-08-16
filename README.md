@@ -8,18 +8,18 @@
 
 ---
 
-## 📌 About Me
+## 📌 About Me:
 
-- Interested in Healthcare, Artificial Intelligence, Data Science, and Cybersecurity.
-- Building with Python, R, Java, C++, C#, SQL, and AWS, with a focus on data-driven and cloud-based solutions.
-- Exploring Machine Learning, Deep Learning, Neural Networks, Biomedical Data, Predictive Analytics, Secure Software Development, and Cloud Computing.
-- Passionate about transforming data into meaningful insights while connecting innovation, health, technology, and music.
+> - Interested in Healthcare, Artificial Intelligence, Data Science, and Cybersecurity.
+> - Building with Python, R, Java, C++, C#, SQL, and AWS, with a focus on data-driven and cloud-based solutions.
+> - Exploring Machine Learning, Deep Learning, Neural Networks, Biomedical Data, Predictive Analytics, Secure Software Development, and Cloud Computing.
+> - Passionate about transforming data into meaningful insights while connecting innovation, health, technology, and music.
 
 ---
 
 ## 🧠 My Focus Areas
 
-### 📋 Areas of Interest
+### 📋 Areas of Interest:
 
 > - Artificial Intelligence
 > - Machine Learning
@@ -29,7 +29,7 @@
 > - Cybersecurity
 > - Cloud Computing
 
-### 👁️ Currently Exploring
+### 👁️ Currently Exploring:
 
 > - AI applications in healthcare and biomedical data
 > - Cybersecurity and secure software development
@@ -38,7 +38,7 @@
 
 ---
 
-## Beyond Coding
+## Beyond Coding:
 
 > ⚛️ - I am interested in the intersection of technology, data, human behavior, and decision-making. I enjoy exploring how programming, Artificial Intelligence, and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics:
 
 <p align="center">
   <a href="https://github.com/IRWGi">
@@ -71,31 +71,6 @@
 
 ---
 
-## 🛠️ Most Used Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="48" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="48" />
-</p>
-
----
-
-## 💪 Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-city.svg" alt="GitHub Contribution Calendar" width="100%" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
@@ -113,11 +88,5 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  
-<img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A3A,50:0A2860,100:123F8A&height=120&section=footer"/>

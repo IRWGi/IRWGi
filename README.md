@@ -110,16 +110,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/IRWGi">
-    <img
-      src="https://awesomegithub.web.app/CyberPunk%20Top%20Languages.svg"
-      alt="IRWGi Top Languages"
-      width="460"
-    />
-  </a>
-</p>
-
 
 ## 🔗 Connect with Me:
 

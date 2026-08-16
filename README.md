@@ -1,7 +1,36 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:061A3A,50:0A2860,100:123F8A&text=IRWGi&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Student%20%7C%20Data%20Manager%20%7C%20Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
+
+
+
+ <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif"
+    height="34"
+    width="34"
+    alt="Typing cat"
+  />
+  &nbsp;
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=123F8A&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=500&lines=Hey+user!+I%27m+IRWGi"
+    alt="Hey user! I'm IRWGi"
+  />
+  &nbsp;
+  <img
+    src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif"
+    height="34"
+    width="34"
+    alt="Typing cat"
+    style="transform: scaleX(-1);"
+  />
+</p>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=123F8A&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=900&lines=%3C%2F%3E+Hello+there!;Scroll+down+to+discover+more." alt="Typing introduction" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=123F8A&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=900&lines=Scroll+down+to+discover+more."
+    alt="Scroll down to discover more"
+  />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Technology Banner" width="100%" />
@@ -24,7 +53,7 @@
 > - Cybersecurity & Data Governance
 > - Software Development & Cloud Computing
 
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
 
 ### 📋 Areas of Interest:
@@ -69,6 +98,9 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IRWGi&bg_color=061A3A&color=E6F0FF&line=4CC9F0&point=FFFFFF&area=true&area_color=0A2860&hide_border=false&radius=10" alt="IRWGi Activity Graph" width="100%" />
+
+
+
 </p>
 
 <p align="center">
@@ -77,6 +109,16 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/IRWGi">
+    <img
+      src="https://awesomegithub.web.app/CyberPunk%20Top%20Languages.svg"
+      alt="IRWGi Top Languages"
+      width="460"
+    />
+  </a>
+</p>
 
 
 ## 🔗 Connect with Me:
@@ -97,6 +139,11 @@
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
 
 

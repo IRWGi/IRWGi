@@ -1,190 +1,42 @@
 
 
-## 💫 About Me:
 
-🧬 Interested in Healthcare, AI, Data Science and Cybersecurity.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=IRWGi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20Cybersecurity%20Enthusiast%20%7C%20Data%20Manager%20%7C%20Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-💻 Skilled in Python, R, Java, C++, C#, SQL and AWS. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CTurning%20data%20into%20insight%2C%20technology%20into%20impact%2C%20and%20innovation%20into%20a%20healthier%2C%20more%20secure%20future.%E2%80%9D" alt="Typing introduction" />
+</p>
 
-🎵 Exploring Machine Learning, Deep Learning, Cognitive Data and secure technology. I enjoy turning data into insights while connecting innovation, health and music. 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=IRWGi">
+    <img src="https://komarev.com/ghpvc/?username=IRWGi&label=Profile%20views&color=00FFFF&style=flat-square" alt="IRWGi's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Interested in Healthcare, Artificial Intelligence, Data Science, and Cybersecurity.
+- Building with Python, R, Java, C++, C#, SQL, and AWS, with a focus on data-driven and cloud-based solutions.
+- Exploring Machine Learning, Deep Learning, Neural Networks, Biomedical Data, Predictive Analytics, Secure Software Development, and Cloud Computing.
+- Passionate about transforming data into meaningful insights while connecting innovation, health, technology, and music.
 
 
-
-
-
-
-## 💻 Tech Stack:
-
-
-
-
-
-
+## 🧠 My Focus Areas
+- 📋 Areas of Interest:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning & Neural Networks
+- Data Science & Analytics
+- Data Engineering
+- Cybersecurity
+- Cloud Computing
 ---
-
-
-### Programming Languages:  * Python     * R     * Java      * C++     * C#   * HTML5    * Powershell
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) 
-
-
-
-
-
-
-
----
-
-### Artificial Intelligence & Data:  * NVIDIA    * Chart.js    * Apache Airflow
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)  ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white)   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) 
-
-
-
-
-
-
----
-
-
-
-
-
-
-### Cloud & Development:  * AWS  * .NET    * Flask  * Node.js  * NPM    *Gulp  * Nginx    * Insomia
-
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
-
-
-
-
-
-
-
----
-
-
-### Databases:    * AmazonDynamoDB  * MariaDB   * Microsoft SQL Server  * MongoDB  * MySQL   * Supabase    * SQLite
-
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-
-
-
----
-
-### Cybersecurity & Secure Technology:  * AWS Security  * Windows Terminal  * PowerShell 
-
-
-
-![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) 
-
-
-
-
-
-
-
-
-
---- 
-
-
-
-
-## 📈 GitHub Stats:
-
-
-
-
-![](https://github-readme-stats.shion.dev/api?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-
-![](https://streak-stats.demolab.com/?user=IRWGi&theme=dark&hide_border=false)<br/>
-
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IRWGi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
----
-
-## 📋Areas of Interest:
-
-
-
-* Artificial Intelligence
-
-
-
-* Machine Learning
-
-
-
-* Deep Learning
-
-
-
-* Data Science
-
-
-
-* Data Engineering
-
-
-
-* Cybersecurity
-
-
-
-
-* Cloud Computing
-
-
-
-
-
-
-
-
----
-
-
-
-
-## 👁️ Currently Exploring:
-
-* AI in Healthcare and Biomedical Data
-
-
-
-* Cybersecurity and Secure Software Development
-
-
-* Data Science, Predictive Analytics and Visualization
-
-
-* Linux and Ubuntu
-
-
-
-
-* Cybersecurity Fundamentals
-
-  ## 🖼️ Extra:    * Adobe Creative Cloud  * Adobe Photoshop  * Adobe After Effects  * Adobe Lightroom Classic       * Adobe Acrobat Reader    * Canva    * Fastlane  * CloudBees  
-
-
- I am also exploring creative and digital media tools, including Adobe Creative Cloud, Photoshop, After Effects, Lightroom, Acrobat Reader and Canva. I enjoy combining technology with visual design, editing and creative communication.
-
-
-  ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
+- 👁️ Currently Exploring:
+- AI applications in healthcare and biomedical data
+- Cybersecurity and secure software development
+- Predictive analytics and data visualization
+- Cloud infrastructure, automation, and AWS services
 
 ---
 
@@ -207,34 +59,102 @@ their creativity, emotion and structure inspire me.
 
 Whether I am coding, studying data or exploring new technologies, music is always part of my process, helping me stay focused, curious and creative.
 
-
-
-
-
-
-
-
-##  Profile Visitor Count:
-
-
 ---
 
 
-
-[![](https://komarev.com/ghpvc/?username=IRWGi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
---- 
-
-
-## Let’s All Connect!
-
-
-EMAIL: rwolkof@gmail.com
-
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/IRWGi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IRWGi&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="IRWGi's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=IRWGi&theme=vue&hide_border=true&cache_seconds=86400" alt="IRWGi's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IRWGi&theme=vue&radius=10" alt="IRWGi's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
----
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/IRWGi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IRWGi&langs_count=8&layout=compact&theme=vue&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=IRWGi)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-wolkoff">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:rwolkof@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href=" https://irwgi.github.io/landing-page-responsive-/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+

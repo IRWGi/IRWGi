@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif"
@@ -12,8 +11,8 @@
   />
   &nbsp;
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=FFFFFF&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=500&lines=Hey+user!+I%27m+IRWGi"
-    alt="Hey user! I'm IRWGi"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=FFFFFF&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Hey+user!+I%27m+IRWGi."
+    alt="Coding symbol — Hey user! I'm IRWGi."
   />
   &nbsp;
   <img
@@ -23,7 +22,6 @@
     alt="Typing cat"
   />
 </p>
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=061A3A&height=5&width=500"
@@ -34,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFFFFF&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=900&lines=Scroll+down+to+discover+more."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&cursor=true&cursorChar=%E2%96%8C&center=true&vCenter=true&width=900&lines=Scroll+down+to+discover+more."
     alt="Scroll down to discover more"
   />
 </p>

@@ -140,7 +140,7 @@ Whether I am coding, studying data or exploring new technologies, music is alway
   <a href="https://www.linkedin.com/in/rodrigo-wolkoff">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:rwolkof@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=rwolkof@gmail.com&su=Portfolio+contact&tf=cm">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href=" https://irwgi.github.io/landing-page-responsive-/">

@@ -128,7 +128,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://irwgi.github.io/IIRWGi/" target="_blank">
+  <a href="https://i.iirwgi.workers.dev/"_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>

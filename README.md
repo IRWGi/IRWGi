@@ -6,7 +6,6 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Technology Banner" width="100%" />
 
----
 
 ## 📌 About Me:
 
@@ -15,9 +14,18 @@
 > - Exploring Machine Learning, Deep Learning, Neural Networks, Biomedical Data, Predictive Analytics, Secure Software Development, and Cloud Computing.
 > - Passionate about transforming data into meaningful insights while connecting innovation, health, technology, and music.
 
----
 
-## 🧠 My Focus Areas
+
+## 🧠 My Focus Areas:
+
+> - Artificial Intelligence & Machine Learning
+> - Data Science & Data Analysis
+> - Healthcare & Biomedical Data
+> - Cybersecurity & Data Governance
+> - Software Development & Cloud Computing
+
+
+
 
 ### 📋 Areas of Interest:
 
@@ -36,19 +44,19 @@
 > - Predictive analytics and data visualization
 > - Cloud infrastructure, automation, and AWS services
 
----
+
 
 ## Beyond Coding:
 
-> ⚛️ - I am interested in the intersection of technology, data, human behavior, and decision-making. I enjoy exploring how programming, Artificial Intelligence, and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
+> - ⚛️ I am interested in the intersection of technology, data, human behavior, and decision-making. I enjoy exploring how programming, Artificial Intelligence, and data analysis can be applied to understand complex situations and create practical solutions for real-world problems.
 
-> 👾 - For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly, and transforming data into insights that support better decisions.
+> - 👾  For me, Artificial Intelligence is more than building models or writing code. It is about identifying patterns, asking the right questions, interpreting information responsibly, and transforming data into insights that support better decisions.
 
-> 🔊 - I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication, and an understanding of the real problem behind every project. A strong solution should be reliable, ethical, and capable of creating measurable value.
+> - 🔊 - I believe impactful technology combines technical excellence with analytical thinking, curiosity, clear communication, and an understanding of the real problem behind every project. A strong solution should be reliable, ethical, and capable of creating measurable value.
 
-> 🎼 - Music is one of my greatest passions. Old classics and timeless songs inspire creativity, focus, and curiosity while I study, code, and explore technology.
+> - 🎼 - Music is one of my greatest passions. Old classics and timeless songs inspire creativity, focus, and curiosity while I study, code, and explore technology.
 
----
+
 
 ## 📊 GitHub Statistics:
 
@@ -69,17 +77,16 @@
   </a>
 </p>
 
----
 
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigowolkoff/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rwolkof@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=rwolkof@gmail.com&su=Portfolio+contact&tf=cm">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -88,5 +95,8 @@
   </a>
 </p>
 
----
+
+
+
+
 

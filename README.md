@@ -77,7 +77,7 @@
 > - Predictive analytics and data visualization
 > - Cloud infrastructure, automation, and AWS services
 
-## 👀 Current Learning Focus 
+## 👀 Current Learning Focus:
 
 <p align="center">
   <img

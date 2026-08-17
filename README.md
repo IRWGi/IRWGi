@@ -97,7 +97,11 @@
   <a href="https://github.com/IRWGi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IRWGi&cache_seconds=7200&show_icons=true&bg_color=061A3A&title_color=4CC9F0&text_color=E6F0FF&icon_color=4CC9F0&border_color=0A2860&border_radius=10" alt="IRWGi GitHub Stats" />
   </a>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=IRWGi&background=061A3A&border=0A2860&stroke=8BA8E8&ring=4CC9F0&fire=4CC9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CC9F0&sideLabels=B8C7E0&dates=8796B4" alt="IRWGi GitHub Streak" />
+  <img
+  height="180"
+  src="https://streak-stats.demolab.com?user=IRWGi&background=061A3A&border=0A2860&stroke=8BA8E8&ring=4CC9F0&fire=4CC9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CC9F0&sideLabels=B8C7E0&dates=8796B4"
+  alt="IRWGi GitHub Streak"
+/>
 </p>
 
 <p align="center">
